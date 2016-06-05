@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary1">#3F51B5</color>
+    <color name="colorPrimaryDark1">#303F9F</color>
+    <color name="colorAccent1">#FF4081</color>
+
+    <!--<color name="colorPrimary">#1E1E1E</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <!--<color name="text_white">#FFFFFF</color>-->
+
+    <color name="colorPrimary">#232323</color>
+    <!--<color name="colorPrimaryDark">#DDDDDD</color>-->
+    <color name="colorPrimaryDark">#545454</color>
+    <color name="colorPrimaryDark2">#DDDDDD</color>
+    <color name="colorAccent">#FF00FF</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_black">#000000</color>
+    <color name="transparent_tv">#8000</color>
+
+
+    <color name="textColorPrimary">#FF4081</color>
+    <color name="textColorCard">#8E602F</color>
+    <color name="descriptionColor">#FFF600</color>
+    <color name="shadow">#555555</color>
+    <color name="title">#777777</color>
+    <color name="gradient_start">#EFFDFD</color>
+    <color name="gradient_end">#FF4081</color>
+</resources>
